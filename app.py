@@ -22,7 +22,7 @@ st.set_page_config(
 # ------------------------- GitHub assets -------------------------
 TEMPLATE_URL = "https://raw.githubusercontent.com/dimitrisaronis1-dev/MANMONTHS-11/main/OUTPUT%20-%20NEW%20FORMAT%20TEMPLATE.xlsx"
 LOGO_URL = "https://raw.githubusercontent.com/dimitrisaronis1-dev/MANMONTHS-8/main/SPACE%20LOGO_colored%20horizontal.png"
-GUIDE_DOC_URL = "https://raw.githubusercontent.com/dimitrisaronis1-dev/MANMONTHS-8/main/%CE%9F%CE%B4%CE%B7%CE%B3%CE%AF%CE%B5%CF%82%20%CF%87%CF%81%CE%AE%CF%83%CE%B7%CF%82%20%CE%95%CF%81%CE%B3%CE%B1%CE%BB%CE%B5%CE%AF%CE%BF%CF%85%20%CE%9A%CE%B1%CF%84%CE%B1%CE%BD%CE%BF%CE%BC%CE%AE%CF%82%20%CE%91%CE%9C.docx"
+GUIDE_DOC_URL = "https://raw.githubsercontent.com/dimitrisaronis1-dev/MANMONTHS-11/main/Οδηγίες%20χρήσης%20Εργαλείου%20Κατανομής%20ΑΜ.docx"
 LOGO_WIDTH_PX = 380  # ~10cm
 
 # ------------------------- Styles -------------------------
